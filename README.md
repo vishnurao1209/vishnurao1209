@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishnurao1209
 - 👀 I’m interested in upskilling
-- 🌱 I’m currently learning Data Analatycis
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on learning SQL, Tableau
 - 📫 How to reach me: https://www.linkedin.com/in/vishnu-teja-eravelli-89262a154/
 - 😄 Pronouns: he/him
